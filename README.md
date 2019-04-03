@@ -5,10 +5,10 @@ security of masked implementations.
 
 tightPROVE was introduced in the following publication:
 
-> [Tight Private Circuits: Achieving Probing Security with the 
+[Tight Private Circuits: Achieving Probing Security with the 
 Least Refreshing](ia.cr/2018/439)   
-> By Sonia Belaïd, Dahmun Goudarzi, and Matthieu Rivain.   
-> In the proceedings of ASIACRYPT 2018.
+By Sonia Belaïd, Dahmun Goudarzi, and Matthieu Rivain.   
+In the proceedings of ASIACRYPT 2018.
  
 ## Content
 
