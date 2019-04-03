@@ -1,0 +1,5 @@
+in  0 
+in  1 
+xor 0 1
+and 0 2
+out 3
